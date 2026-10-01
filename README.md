@@ -56,7 +56,6 @@ AI-Enhanced Workflows   LLMs • Automation • Data Processing • Prompt Engin
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-@interfluve-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/193797849211731969)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhaas_Chitturi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaaschitturi/)
 [![YouTube](https://img.shields.io/badge/YouTube-@interfluve-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@interfluve)
 
 </div>
